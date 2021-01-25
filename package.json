@@ -1,0 +1,29 @@
+{
+  "author": "Kyra#9338",
+  "license": "Apache-2.0",
+  "keywords": [
+    "CloudUP",
+    "discord",
+    "bot",
+    "mod",
+    "Kayıt Bot"
+  ],
+  "name": "CloudUP",
+  "version": "0.0.37",
+  "description": "CloudUP Bot",
+  "private": true,
+  "main": "CloudUP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node CloudUP.js"
+  },
+    "engines": {
+    "node": "12.x",
+    "npm": "6x"
+  },
+    "dependencies": {
+    "discord.js": "^12.2.0",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.2.0"
+  }
+  }
